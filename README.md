@@ -58,7 +58,7 @@ For my Systems Thinking course, I’m working on a **LED Piano Trainer**. This p
 ### Team Members
 - **Samuel Kohút** – system designer, hardware & firmware developer, documentation
 
-Role: end-to-end responsibility for concept, implementation, testing and documentation. Simply ona man team.
+Role: end-to-end responsibility for concept, implementation, testing and documentation.
 
 
 ### Purpose
