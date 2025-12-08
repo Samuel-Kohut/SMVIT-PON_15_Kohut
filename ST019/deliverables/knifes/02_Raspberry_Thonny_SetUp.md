@@ -35,7 +35,7 @@ Použiteľné pri:
 ## ⚡ Rýchly návod (Top)
 
 1. Prejdi na **https://thonny.org**  
-   ![Thonny Download](./images/thonny_download.png)
+   ![Thonny Download](../images/thonny_download.png)
 2. Stiahni inštalátor pre svoj operačný systém.  
 3. Nainštaluj Thonny s odporúčanými nastaveniami.  
 4. Pripoj Raspberry Pi Pico k počítaču cez USB.  
@@ -57,7 +57,7 @@ Prejdite na oficiálnu stránku:
 
 Vyberte operačný systém a stiahnite inštalačný súbor.
 
-![Thonny Download](./images/thonny_download.png)
+![Thonny Download](../images/thonny_download.png)
 
 ---
 
@@ -78,7 +78,7 @@ V Thonny otvorte:
 
 Zobrazí sa okno:
 
-![Select Interpreter Window](./images/thonny_interpreter.png)
+![Select Interpreter Window](../images/thonny_interpreter.png)
 
 Nastavte:
 

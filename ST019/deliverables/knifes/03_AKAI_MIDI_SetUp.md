@@ -35,9 +35,9 @@ Tento postup použiješ pri:
 1. Prejdi na **https://www.akaipro.com/download**  
 2. Vytvor si účet alebo sa prihlás.  
 3. Klikni na **Register New Product**  
-   ![Registrácia produktu](./images/akai_register_product.png)
+   ![Registrácia produktu](../images/akai_register_product.png)
 4. Odpíš sériové číslo zo spodnej strany klávesnice.  
-   ![Sériové číslo na AKAI klávesnici](./images/akai_serial_number.png)
+   ![Sériové číslo na AKAI klávesnici](../images/akai_serial_number.png)
 5. Po registrácii si stiahni softvér dostupný pre tvoje zariadenie.  
 6. Nainštaluj EXE, prihlás sa a pripoj klávesnicu.  
 7. Aktivuj odporúčaný softvér (napr. **Hype**).  
@@ -72,7 +72,7 @@ Zospodu klávesnice nájdeš štítok so sériovým kódom — treba ho opísať
 
 *(Obrázok nižšie je len placeholder — nahraď ho reálnou fotkou.)*
 
-![Sériové číslo na AKAI klávesnici](./images/akai_serial_number.png)
+![Sériové číslo na AKAI klávesnici](../images/akai_serial_number.png)
 
 Po potvrdení sa produkt uloží do účtu.
 
@@ -81,7 +81,7 @@ Po potvrdení sa produkt uloží do účtu.
 ### 4️⃣ Stiahnutie softvéru
 Po registrácii sa ti zobrazí zoznam softvéru pripraveného na stiahnutie:
 
-![Softvérové balíky AKAI](./images/akai_software_downloads.png)
+![Softvérové balíky AKAI](../images/akai_software_downloads.png)
 
 Typické možnosti:
 - **Hype**
