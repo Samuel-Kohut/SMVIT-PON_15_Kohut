@@ -28,4 +28,4 @@
 - Linky na zdroje, ktoré som použil  
 
 ## Navigácia
-- [↩️ Späť](../knifes/02_knowledge-contribution.md)
+- [↩️ Späť](../02_knowledge-contribution.md)

@@ -35,7 +35,6 @@ Použiteľné pri:
 ## ⚡ Rýchly návod (Top)
 
 1. Prejdi na **https://thonny.org**  
-   ![Thonny Download](../images/thonny_download.png)
 2. Stiahni inštalátor pre svoj operačný systém.  
 3. Nainštaluj Thonny s odporúčanými nastaveniami.  
 4. Pripoj Raspberry Pi Pico k počítaču cez USB.  
@@ -149,4 +148,4 @@ Raspberry Pi Pico je pripravené na vývoj a experimentovanie.
 ---
 
 ## Navigácia
-- [↩️ Späť](../knifes/02_knowledge-contribution.md)
+- [↩️ Späť](../02_knowledge-contribution.md)

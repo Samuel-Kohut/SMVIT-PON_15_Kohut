@@ -35,9 +35,10 @@ Tento postup použiješ pri:
 1. Prejdi na **https://www.akaipro.com/download**  
 2. Vytvor si účet alebo sa prihlás.  
 3. Klikni na **Register New Product**  
+  
    ![Registrácia produktu](../images/akai_register_product.png)
+  
 4. Odpíš sériové číslo zo spodnej strany klávesnice.  
-   ![Sériové číslo na AKAI klávesnici](../images/akai_serial_number.png)
 5. Po registrácii si stiahni softvér dostupný pre tvoje zariadenie.  
 6. Nainštaluj EXE, prihlás sa a pripoj klávesnicu.  
 7. Aktivuj odporúčaný softvér (napr. **Hype**).  
@@ -147,4 +148,4 @@ Po absolvovaní postupov má používateľ plne funkčnú AKAI klávesnicu so so
 ---
 
 ## Navigácia
-- [↩️ Späť](../knifes/02_knowledge-contribution.md)
+- [↩️ Späť](../02_knowledge-contribution.md)
