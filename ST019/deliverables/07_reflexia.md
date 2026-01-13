@@ -1,4 +1,4 @@
-# 9. Reflexia a spätná väzba
+# Reflexia a spätná väzba
 
 ## 1. Čo bolo pre mňa v tomto predmete/úlohe najľahšie?
 Najľahšie bolo vymyslieť koncept a celkový smer projektu.  
@@ -48,9 +48,6 @@ Toto mi nakoniec najviac zrýchlilo vývoj.
 ### ✔️ Viac by som plánoval ohľadom rozsahu LED vs. klávesov  
 Od začiatku by som rátal s tým, že LED sa musia ohýbať alebo umiestniť v boxoch.
 
-### ✔️ Skôr by som rozdelil projekt na 2 tracky  
-Toto rozhodnutie urobilo projekt výrazne jednoduchším a lepšie zvládnuteľným.
-
 ---
 
 ## 5. Ako to súvisí s mojím projektom alebo budúcou praxou?
@@ -68,17 +65,14 @@ Je to presne ten typ projektu, ktorý ukazuje, že aj jeden človek dokáže vyb
 ---
 
 ## 6. Akú jednu vetu by som chcel, aby si z tohto zapamätali moji spolužiaci?
-**„Ak niečo nefunguje, neznamená to, že to je zlý nápad — len to potrebuje inú cestu.“**
-
-Toto presne vystihuje priebeh projektu: od pôvodného nápadu cez slepé uličky až po funkčný prototyp.
+**„Ak niečo nefunguje, neznamená to, že to je zlý nápad - len to potrebuje inú cestu.“**
 
 ---
 
 ## 7. Čo by som doporučil na zlepšenie predmetu?
 - Viac ukázať reálne projekty z minulých rokov, aby študenti videli rôzne prístupy.  
-- Možnosť konzultovať technické návrhy skôr v procese.  
-- Viac priestoru na 3D tlač / makerspace (tým, ktorí to potrebujú).  
-- A jeden veľký plus: predmet podporuje kreativitu — odporúčam zachovať tento voľný priestor.
+- Lepšie konzultovať zámer, priebeh predmetu a čo presne sa očakáva od študenta.
+- A jeden veľký plus: predmet podporuje kreativitu. Odporúčam zachovať tento voľný priestor.
 
 ---
 

@@ -36,7 +36,7 @@ Tento postup použiješ pri:
 2. Vytvor si účet alebo sa prihlás.  
 3. Klikni na **Register New Product**  
   
-   ![Registrácia produktu](../images/akai_register_product.png)
+<img src="../images/akai_register_product.png" width="600">
   
 4. Odpíš sériové číslo zo spodnej strany klávesnice.  
 5. Po registrácii si stiahni softvér dostupný pre tvoje zariadenie.  
@@ -71,9 +71,7 @@ Po prihlásení prejdime do sekcie:
 Zobrazí sa formulár, do ktorého zadáš sériové číslo.  
 Zospodu klávesnice nájdeš štítok so sériovým kódom — treba ho opísať presne.
 
-*(Obrázok nižšie je len placeholder — nahraď ho reálnou fotkou.)*
-
-![Sériové číslo na AKAI klávesnici](../images/akai_serial_number.png)
+<img src="../images/akai_serial_number.png" width="600">
 
 Po potvrdení sa produkt uloží do účtu.
 
@@ -82,7 +80,7 @@ Po potvrdení sa produkt uloží do účtu.
 ### 4️⃣ Stiahnutie softvéru
 Po registrácii sa ti zobrazí zoznam softvéru pripraveného na stiahnutie:
 
-![Softvérové balíky AKAI](../images/akai_software_downloads.png)
+<img src="../images/akai_software_downloads.png" width="600">
 
 Typické možnosti:
 - **Hype**

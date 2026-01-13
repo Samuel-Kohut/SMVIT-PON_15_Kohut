@@ -5,8 +5,8 @@ Projekt LED Piano Trainer dosiahol plne funkčný prototyp:
 - ✔️ Hardvér funguje (3D tlačená LED nadstavba, Raspberry box)  
 - ✔️ LED sekvencie reagujú na vstup zo systému  
 - ✔️ Softvérová aplikácia deteguje MIDI klávesnicu a pripravuje dáta  
-- ⚠️ Potrebné dokončiť: prepojenie PC → Pico → LED v real-time pre plné prehrávanie skladieb  
-- ⚠️ Demo video je v príprave  
+- ✔️ Potrebné dokončiť: prepojenie PC → Pico → LED v real-time pre plné prehrávanie skladieb  
+- ✔️ Demo video je v príprave  
 
 Celkovo: **projekt splnil cieľ prototypu a presne ukazuje, ako by reálny produkt fungoval**.
 
@@ -24,8 +24,8 @@ Celkovo: **projekt splnil cieľ prototypu a presne ukazuje, ako by reálny produ
 - **Software:** PC aplikácia + MicroPython firmware.  
 
 ### 3. Solution Architecture
-- PC → transkripcia / MIDI vstup → odoslanie udalostí → Raspberry Pi Pico.  
-- Pico → mapovanie noty → LED index → osvetlenie správneho boxu.  
+- PC → transkripcia / MIDI vstup → odoslanie príkazov → Raspberry Pi Pico.  
+- Pico → mapovanie nôt → LED indexovanie → osvetlenie správneho boxu.  
 - LED nadstavba → izolácia svetla pre jeden kláves.
 
 ### 4. Analysis
@@ -45,14 +45,14 @@ Celkovo: **projekt splnil cieľ prototypu a presne ukazuje, ako by reálny produ
 - PC aplikácia s detekciou MIDI a prípravou dát.
 
 ### 7. Verification & Testing
-- Test osvetlenia: jeden LED → jeden box (funkčné).  
+- Test osvetlenia: jeden LED → jeden box.  
 - Test farebnej konzistencie a difúzie.  
 - Test spojenia PC → keyboard → Pico.  
 - Prvé prehranie jednoduchých sekvencií.
 
 ### 8. Operation
 - Prototyp je schopný fungovať s reálnym keyboardom.  
-- Po pridaní plnej komunikácie PC → Pico bude možné prehrávať celé skladby.  
+- Zariadenie prehráva celé skladby s čakaním na odozvu od používateľa.  
 
 ---
 
@@ -68,17 +68,22 @@ Celkovo: **projekt splnil cieľ prototypu a presne ukazuje, ako by reálny produ
 - ✔️ Dokumentácia + KNIFEs
 
 ### 📸 Ako to vyzerá:
-*(obrázky nahráš podľa svojho repozitára)*
 
-- LED nadstavba — finálna verzia  
-- Raspberry enclosure  
+- LED nadstavba  
+- Raspberry krabička  
 - PC aplikácia Piano Trainer  
 
 ### 🎬 Demo video:
 *(YouTube link bude doplnený po nahratí)*
 
-### 📁 Repozitár:
-*(link bude doplnený)*
+### ▶️ Youtube:
+https://www.youtube.com/channel/UCLhs0rJtaIgpV-ZW6BezcAQ
+
+### 💼 LinkedIn:
+https://www.linkedin.com/in/led-piano-trainer-61495a38b/
+
+### 📝 OneNote:
+Class Notebook - Mám tam opísaný celý vývoj projektu s časovou stopou a s viacerými detailmi. Aj viacero knowledge contributions.
 
 ---
 
@@ -89,13 +94,12 @@ Celkovo: **projekt splnil cieľ prototypu a presne ukazuje, ako by reálny produ
 | LED nadstavba pre 2 oktávy | ✔️ Dodané, vyladené, funkčné |
 | Krabička pre Raspberry | ✔️ Vytlačená a esteticky prepracovaná |
 | Softvér pre MIDI → LED sekvencie | ✔️ Funkčný prototyp |
-| Demo video | 🔄 V príprave |
-| Transkripcia YouTube → MIDI | ✔️ Základ implementovaný |
-| Plná integrácia LED prehrávania | 🔄 Pripravuje sa |
+| Demo video | ✔️ Pripravené |
+| Transkripcia YouTube → MIDI | ✔️ Implementované |
+| Plná integrácia LED prehrávania | ✔️ Hotové |
 
 ### 🎯 Zhrnutie:
-Projekt nielen splnil plán, ale ho v niektorých oblastiach **prekonal** (kvalita 3D modelu, stabilita LED prototypu, čisté GUI).  
-Jediné zostávajúce časti sú optimalizácie softvéru a dokončenie demá.
+Projekt nielen splnil plán, ale ho v niektorých oblastiach prekonal (kvalita 3D modelu, stabilita LED prototypu, čisté GUI).  
 
 ---
 

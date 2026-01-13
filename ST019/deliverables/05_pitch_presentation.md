@@ -73,33 +73,5 @@ Nežiadam financie – aktuálne potrebujem *odborné smerovanie a podporu*.
 
 ---
 
-# 🛠️ Štruktúra pitchu
-1. **Problém** – prečo sa deti nevedia naučiť hrať na klavíri tradične  
-2. **Riešenie** – LED Piano Trainer ako vizuálna edukačná pomôcka  
-3. **Trh / Kontext** – rodiny, školy, hobby komunita  
-4. **Tím** – Samuel Kohút, end-to-end developer  
-5. **Výzva** – potreba mentoringu a spätná väzba pre ďalší rozvoj  
-
----
-
-# ⏱️ Časovanie
-- **5–7 minút** prezentácia  
-- **2–3 minúty** otázky  
-
----
-
-# 📊 Podklady
-- **3–5 slajdov** (Problém → Riešenie → Hodnota → Demo → CTA)  
-- **1 demo video** / vizuálna ukážka LED nadstavby  
-
----
-
-# 🧭 Tipy pre prezentáciu
-- Jeden slide → jedna hlavná myšlienka  
-- Minimum textu, maximum vizuálov  
-- Začať problémom, skončiť demo videom  
-
----
-
 ## Navigácia
 - [↩️ Späť](../index.md)

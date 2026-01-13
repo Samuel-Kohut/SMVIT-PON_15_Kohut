@@ -12,6 +12,6 @@ Nižšie sú uvedené všetky KNIFES príspevky, každý so svojím vlastným de
 - 🎹 **4 – Nastavenie a používanie softvéru pre LED Piano Trainer:** [otvor](./knifes/04_How_To_Use_LED_Piano_Trainer.md)  
 
 ## Navigácia
-- ↩️ [Späť na študenta](../knifes/index.md)
+- ↩️ [Späť](../index.md)
 
 ---

@@ -6,7 +6,7 @@ Ahoj, volám sa **Samuel Kohút** a momentálne končím inžinierske štúdium 
 💻 **Skúsenosti a pozadie**
 
 * Pracoval som na rôznych akademických aj osobných projektoch. Od dátových štruktúr, webových aplikácií a hier až po riešenia založené na umelej inteligencii, ako sú **rozpoznávanie tváre** či **reinforcement learning v Atari hrách** (moja diplomová práca).
-* Profesionálne mám viac než 2,5 roka skúseností ako **Java backend developer**, kde som sa venoval vývoju webových aplikácií. Predtým som 2 roky pracoval v logistickom sektore v supermarkete Metro.
+* Profesionálne mám viac než 2,5 roka skúseností ako **Java backend developer**, kde sa venujem vývoju webových aplikácií. Predtým som 2 roky pracoval v logistickom sektore v supermarkete Metro.
 * Mojou technickou silnou stránkou je **programovanie**, riešenie problémov a tvorba praktických softvérových systémov.
 
 🎹 **Aktuálny projekt**
