@@ -131,6 +131,8 @@ Systém využíva distribuovanú logiku, kde sa náročné operácie vykonávaj�
 3.  **Mapovanie (Pico):** Firmvér prijme MIDI notu a podľa mapy (Key-to-LED) určí index na LED páse.
 4.  **Svetelný výstup (Hardware):** Cez PIO driver rozsvieti konkrétnu WS2812B diódu s presným časovaním.
 
+Tu je zjednodušený pohľad na komunikáciu medzi jednotlivými časťami:
+
 ```mermaid
 sequenceDiagram
     participant YT as YouTube / MIDI File
@@ -144,6 +146,11 @@ sequenceDiagram
     PC->>Pico: Príkaz (Index, Farba)
     Pico->>LED: Svietenie (Vizualizácia tónu)
 ```
+
+Tu je pvotný pohľaď a ako sa časom menil na finálnu detailnejšiu verziu:
+
+<img src="./images/SekvencakFirstDraft.png" width="300" alt="Detailná schéma zapojenia">
+<img src="./images/LemonTreePorovnanieSekvencakov.png" width="800" alt="Detailná schéma zapojenia">
 
 #### 🔌 Fyzická schéma zapojenia
 Tu vidíme, ako Raspberry Pi Pico slúži ako most medzi digitálnym príkazom a elektrickým signálom pre LED pás.
