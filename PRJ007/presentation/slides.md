@@ -70,9 +70,10 @@ Spomenul som si na svoj starý nápad. Pomôcka, ktorá ti ukáže, čo máš hr
 ### 2. Top Level a Solution Architektúra
 **LED Piano Trainer** predstavuje malý, ale kompletný systém, ktorý demonštruje princípy systémového myslenia. Skladá sa z navzájom prepojených vrstiev (hardvér, softvér a ľudská interakcia), ktoré spolu tvoria fungujúci ekosystém. Každá vrstva závisí od ostatných a celkové správanie vyplýva z ich vzájomnej spolupráce, nie z ktorejkoľvek samostatnej časti.
 
+```mermaid
 graph TD
     subgraph Human_Interaction [Ľudská vrstva]
-        User[Používateľ/Sesternica]
+        User[Používateľ]
     end
 
     subgraph Software_Layer [Softvérová vrstva - PC]
@@ -93,7 +94,7 @@ graph TD
     App -->|Príkazy Serial| Pico
     Pico -->|Ovláda| LED
     Transcription -->|Generuje noty| App
-
+```
 
 #### 🛠️ Hardvérové komponenty
 | Komponent | Popis | Účel |
@@ -130,6 +131,7 @@ Systém využíva distribuovanú logiku, kde sa náročné operácie vykonávaj�
 3.  **Mapovanie (Pico):** Firmvér prijme MIDI notu a podľa mapy (Key-to-LED) určí index na LED páse.
 4.  **Svetelný výstup (Hardware):** Cez PIO driver rozsvieti konkrétnu WS2812B diódu s presným časovaním.
 
+```mermaid
 sequenceDiagram
     participant YT as YouTube / MIDI File
     participant PC as Python App (PC)
@@ -138,11 +140,10 @@ sequenceDiagram
 
     YT->>PC: Zdrojové dáta (Audio/MIDI)
     Note over PC: AI Transkripcia (Basic Pitch)
-    PC->>PC: Mapovanie Noty na LED Index
-    PC->>Pico: Serial príkaz (Index, Farba)
-    Pico->>LED: PIO Signál (Svietenie)
-    Note right of LED: Vizualizácia tónu
-
+    PC->>PC: Mapovanie nôt na LED Index
+    PC->>Pico: Príkaz (Index, Farba)
+    Pico->>LED: Svietenie (Vizualizácia tónu)
+```
 
 #### 🔌 Fyzická schéma zapojenia
 Tu vidíme, ako Raspberry Pi Pico slúži ako most medzi digitálnym príkazom a elektrickým signálom pre LED pás.
@@ -165,6 +166,9 @@ Po hĺbkovej analýze fyzického MIDI keyboardu (rozobratie) som identifikoval t
 
 <img src="./images/rozobrate_piano.png" width="600" alt="Rozobraté MIDI piano">
 
+  
+  
+```mermaid
 graph LR
     Start((Idea: LED v klávesoch)) --> Inspect[Rozobratie piana]
     Inspect --> Problem1{Materiál?}
@@ -179,6 +183,7 @@ graph LR
     
     style Reject fill:#f96,stroke:#333,stroke-width:2px
     style Success fill:#9f9,stroke:#333,stroke-width:4px
+```
 
 ---
 
