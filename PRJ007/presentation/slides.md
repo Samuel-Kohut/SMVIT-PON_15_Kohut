@@ -149,8 +149,8 @@ sequenceDiagram
 
 Tu je pvotný pohľaď a ako sa časom menil na finálnu detailnejšiu verziu:
 
-<img src="./images/SekvencakFirstDraft.png" width="300" alt="Detailná schéma zapojenia">
-<img src="./images/LemonTreePorovnanieSekvencakov.png" width="800" alt="Detailná schéma zapojenia">
+<img src="./images/SekvencakFirstDraft.png" width="600" alt="Detailná schéma zapojenia">
+<img src="./images/LemonTreePorovnanieSekvencakov.png" width="1200" alt="Detailná schéma zapojenia">
 
 #### 🔌 Fyzická schéma zapojenia
 Tu vidíme, ako Raspberry Pi Pico slúži ako most medzi digitálnym príkazom a elektrickým signálom pre LED pás.
