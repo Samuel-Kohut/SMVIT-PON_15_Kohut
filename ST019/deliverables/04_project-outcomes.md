@@ -48,7 +48,7 @@ Finálna verzia PC aplikácie obsahuje:
 
 ### 🎬 Demo video
 
-[LED Piano Showcase](https://www.youtube.com/channel/UCLhs0rJtaIgpV-ZW6BezcAQ)
+[LED Piano Showcase](https://www.youtube.com/watch?v=GONJa6kOOnw)
 
 > YouTube demonštrácia LED reakcií na prehrávané tóny.
 

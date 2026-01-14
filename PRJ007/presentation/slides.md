@@ -108,7 +108,7 @@ graph TD
 #### 💻 Softvérové nástroje
 | Nástroj | Popis | Účel |
 | :--- | :--- | :--- |
-| **Python, MicroPython** | Programovací jazyk | Jazyk pre vytvorenie interaktívnej aplikácie na riadenie celého flowu hrania na takomto klavíri. |
+| **Python** | Programovací jazyk | Jazyk pre vytvorenie interaktívnej aplikácie na riadenie celého flowu hrania na takomto klavíri. |
 | **MicroPython** | Programovací jazyk | Jazyk pre Pico, ktorý definuje logiku ovládania LED. |
 | **Thonny IDE** | Vývojové prostredie | Používa sa na písanie, ladenie a nahrávanie kódu. |
 
@@ -218,12 +218,12 @@ Vyvinul som komplexnú desktopovú aplikáciu "Piano Trainer" v Pythone, ktorá 
 
 ---
 
-## ✅ Testovanie a Prevádzka (SDLC 07-08)
+## ✅ Testovanie a Prevádzka
 
 Systém bol testovaný na latenciu a presnosť mapovania nôt na jednotlivé LED boxy.
 
 
-[LED Piano Showcase](https://www.youtube.com/channel/UCLhs0rJtaIgpV-ZW6BezcAQ)
+[LED Piano Showcase](https://www.youtube.com/watch?v=GONJa6kOOnw)
 
 > YouTube demonštrácia LED reakcií na prehrávané tóny.
 
@@ -253,7 +253,7 @@ Projekt splnil a v mnohom prekonal pôvodné očakávania.
 
 ## 🧑‍🎓 Viac informácií
 
-*   🎥 **YouTube:** [Pozrieť videá projektu](https://www.youtube.com/channel/UCLhs0rJtaIgpV-ZW6BezcAQ)
+*   🎥 **YouTube:** [Pozrieť videá projektu](https://www.youtube.com/@PianoLedTrainer1)
 *   💼 **LinkedIn:** [Profil projektu LED Piano Trainer](https://www.linkedin.com/in/led-piano-trainer-61495a38b/)
 *   📂 **GitHub:** [Zdrojové kódy, 3D modely a technická dokumentácia.](https://github.com/Samuel-Kohut/SMVIT-PON_15_Kohut) 
 * 📝 **OneNote** (Class Notebook):  Mám tam opísaný celý vývoj projektu s časovou stopou a s viacerými detailmi. Aj viacero knowledge contributions.

@@ -74,10 +74,10 @@ Celkovo: **projekt splnil cieľ prototypu a presne ukazuje, ako by reálny produ
 - PC aplikácia Piano Trainer  
 
 ### 🎬 Demo video:
-*(YouTube link bude doplnený po nahratí)*
+https://www.youtube.com/watch?v=GONJa6kOOnw
 
 ### ▶️ Youtube:
-https://www.youtube.com/channel/UCLhs0rJtaIgpV-ZW6BezcAQ
+https://www.youtube.com/@PianoLedTrainer1
 
 ### 💼 LinkedIn:
 https://www.linkedin.com/in/led-piano-trainer-61495a38b/
