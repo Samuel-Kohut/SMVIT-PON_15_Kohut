@@ -56,7 +56,7 @@ Prejdite na oficiálnu stránku:
 
 Vyberte operačný systém a stiahnite inštalačný súbor.
 
-<img src="../images/thonny_download.png" width="600">
+<figure> <img src="../images/thonny_download.png" width="600"> </figure>
 
 ---
 
@@ -77,7 +77,7 @@ V Thonny otvorte:
 
 Zobrazí sa okno:
 
-<img src="../images/thonny_interpreter.png" width="600">
+<figure> <img src="../images/thonny_interpreter.png" width="600"> </figure>
 
 Nastavte:
 

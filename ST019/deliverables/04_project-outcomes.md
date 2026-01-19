@@ -20,16 +20,16 @@
 Po sérii experimentov s hrúbkou priečok a ohýbaním LED pásu vznikla plne funkčná svetelná nadstavba, ktorá rovnomerne osvetľuje jednotlivé klávesy.
 
 #### Počiatočné experimenty s hrúbkou a ohýbaním
-<img src="./images/ledbar_experiments.png" width="600">
+<figure> <img src="./images/ledbar_experiments.png" width="600"> </figure>
 
 #### Prvá verzia (chybná – chýbajúci posledný box)
-<img src="./images/ledbar_v1.png" width="600">
+<figure> <img src="./images/ledbar_v1.png" width="600"> </figure>
 
 #### Opravená finálna verzia s doplneným boxom
-<img src="./images/ledbar_final.png" width="600">
+<figure> <img src="./images/ledbar_final.png" width="600"> </figure>
 
 #### 3D tlačená krabička pre Raspberry + káble
-<img src="./images/raspberry_box.png" width="600">
+<figure> <img src="./images/raspberry_box.png" width="600"> </figure>
 
 ### 💻 Softvérový výsledok
 Finálna verzia PC aplikácie obsahuje:
@@ -38,13 +38,13 @@ Finálna verzia PC aplikácie obsahuje:
 - generovanie LED sekvencií z MIDI alebo automatickej transkripcie  
 
 #### Piano Trainer App Prvotné
-<img src="./images/app_first_draft.png" width="600">
+<figure> <img src="./images/app_first_draft.png" width="600"> </figure>
 
 #### Piano Trainer App Experimentálne
-<img src="./images/piano_trainer_app.png" width="600">
+<figure> <img src="./images/piano_trainer_app.png" width="600"> </figure>
 
 #### Piano Trainer App Finálne
-<img src="./images/app_final.png" width="600">
+<figure> <img src="./images/app_final.png" width="600"> </figure>
 
 ### 🎬 Demo video
 
